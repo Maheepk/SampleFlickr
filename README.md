@@ -10,8 +10,6 @@ The SampleFlickr has pod dependency so, install pod before using this command.
 pod install
 ~~~
 
-![Demonstration](https://goo.gl/photos/Kjfn9fpiQamHurnp9)
-
 ## Requirement
 
 ~~~

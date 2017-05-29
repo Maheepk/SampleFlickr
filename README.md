@@ -29,4 +29,4 @@ Open Source Licensed under the MIT license.
 
 # Contact
 
-You can contact me at via the People tab or post a discussion here or email me: kaushalmaheep@gmail.com
+You can contact me at via post a discussion here or email me: maheepkaushal@gmail.com

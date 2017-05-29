@@ -47,8 +47,8 @@ class FlickrTableCell: UITableViewCell {
                 descriptionLabel.text = "Loading.."
             }
             
-            authorLabel.text = dataSource?.author ?? ""
-            titleLabel.text = dataSource?.title ?? ""
+            authorLabel.text = (dataSource?.author ?? "").replacingOccurrences(of: " ", with: "")
+            titleLabel.text = (dataSource?.title ?? "").replacingOccurrences(of: " ", with: "")
             
             descriptionLabel.sizeToFit()
             
